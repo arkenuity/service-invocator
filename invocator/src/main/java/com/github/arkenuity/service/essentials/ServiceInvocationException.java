@@ -1,4 +1,4 @@
-package com.github.arkenuity.service.essentials.misc;
+package com.github.arkenuity.service.essentials;
 
 /**
  *

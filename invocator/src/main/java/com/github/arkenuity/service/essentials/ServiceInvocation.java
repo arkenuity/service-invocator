@@ -1,4 +1,4 @@
-package com.github.arkenuity.service.essentials.misc;
+package com.github.arkenuity.service.essentials;
 
 import static com.google.common.base.Preconditions.checkNotNull;
 import static com.yammer.metrics.Metrics.newTimer;
