@@ -12,4 +12,4 @@ A service invocation executor utility, which provides the following:
               profileService.byProfile(profileId);
           }});
   
-Note: This utility uses a  {@link ExecutorService#newCachedThreadPool()} and process the tasks submitted through the Callable using the threads in the pool.
+Note: This utility uses ExecutorService#newCachedThreadPool() and process the tasks submitted through the Callable using the threads in the pool.
