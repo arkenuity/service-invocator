@@ -14,4 +14,4 @@ Example callout:
               profileService.byProfile(profileId);
           }});
   
-Note: This utility uses [Executors#newCachedThreadPool()]( http://docs.oracle.com/javase/6/docs/api/java/util/concurrent/Executors.html#newCachedThreadPool(java.util.concurrent.ThreadFactory)) and process the tasks submitted through the Callable using the threads in the pool.
+Note: This utility uses [Executors.newCachedThreadPool()] http://docs.oracle.com/javase/6/docs/api/java/util/concurrent/Executors.html#newCachedThreadPool(java.util.concurrent.ThreadFactory) and process the tasks submitted through the Callable using the threads in the pool.
