@@ -48,7 +48,7 @@ import com.yammer.metrics.core.Timer;
  * </pre>
  *
  * <p>
- * Note: This utility uses a  {@link ExecutorService#newCachedThreadPool()} and process the tasks submitted through the
+ * Note: This utility uses {@link ExecutorService#newCachedThreadPool()} and process the tasks submitted through the
  * Callable using the threads in the pool.
  *
  * @author <a href="mailto:arkenuity@gmail.com">Rajesh Kumar Arcot</a>
